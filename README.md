@@ -19,11 +19,11 @@
   </tr>
 </table>
 
+<b> MVC To Do List Demonstration Application </b>
+
 </div>
 
 
-
-# MVC To Do List Demonstration Application
 
 ## Attribution
 
