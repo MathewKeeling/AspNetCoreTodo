@@ -1,3 +1,28 @@
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <pre>
+    _    ____  ____  _   _ _____ _____   _____     ____        
+   / \  / ___||  _ \| \ | | ____|_   _| |_   _|__ |  _ \  ___  
+  / _ \ \___ \| |_) |  \| |  _|   | |     | |/ _ \| | | |/ _ \ 
+ / ___ \ ___) |  __/| |\  | |___  | |     | | (_) | |_| | (_) |
+/_/   \_\____/|_| (_)_| \_|_____| |_|     |_|\___/|____/ \___/ 
+                                                    v2024.11.03
+      </pre>
+    </td>
+    <td>
+      <img src="resources/img/net_core.png" alt="AspNetCoreTodo" style="width: 200px; height: auto;">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
 # MVC To Do List Demonstration Application
 
 ## Attribution
