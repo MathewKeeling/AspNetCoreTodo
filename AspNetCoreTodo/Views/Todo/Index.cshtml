@@ -1,7 +1,10 @@
+using AspNetCoreTodo.Models;
+using AspNetCoreTodo.Views;
+
 @model TodoViewModel
 
 @{
-    viewData["Title"] = "Manage your to do list!";
+    ViewData["Title"] = "Manage your to do list!";
 }
 
 <div class="panel panel-default todo-panel">
@@ -16,7 +19,7 @@
             </tr>
         </thead>
 
-        @foreach (var item in Model.items)
+        @foreach (var item in Model.Items)
         {
             <tr>
                 <td>
